@@ -1,0 +1,21 @@
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"George_Boole","Count":1021825}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Dulce_Mar%C3%ADa","Count":498357}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Day_of_the_Dead","Count":440471}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"index.html","Count":234778}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Rod_Serling","Count":181061}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Fred_Thompson","Count":174793}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Saving_Private_Ryan","Count":161827}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Black_hole","Count":131452}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"John_Dee","Count":93115}
+{ "index" : { "_index" : "twittertrends", "_type" : "twitterdata" } }
+{ "Topic":"Bob_Ross","Count":75576}
+

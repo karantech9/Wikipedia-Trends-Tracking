@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="com.amazonaws.eclipse.sdk.AWS_JAVA_SDK"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/aspectjtools-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-core-1.0.2-modified.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jdeb-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh Gupta/Downloads/CA Project/Library/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
